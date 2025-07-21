@@ -1,4 +1,4 @@
-<h1 style="font-size: 42;"> ETERNALTENNA IMAGE DUMP! </h1>
+<h1 style="font-size: 42; "text-align:center;""> ETERNALTENNA IMAGE DUMP! </h1>
 
 
 <img src="https://files.catbox.moe/i4seg5.gif" class="center">
